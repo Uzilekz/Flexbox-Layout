@@ -217,3 +217,18 @@ body {
     margin: 5px;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .header__nav__link {
+    font-size: 1.1em;
+  }
+  .main__articles__article__txt {
+    font-size: 1.2em;
+  }
+  .footer__links__link {
+    font-size: .9em;
+  }
+  .footer__social__link {
+    font-size: .9em;
+  }
+}
